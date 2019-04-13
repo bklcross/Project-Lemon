@@ -1,0 +1,27 @@
+{
+  "name": "Project-Lemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lemon.js",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^1.0.0",
+    "@tensorflow/tfjs": "^1.0.4",
+    "canvas": "^2.4.1",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bklcross/Project-Lemon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bklcross/Project-Lemon/issues"
+  },
+  "homepage": "https://github.com/bklcross/Project-Lemon#readme"
+}
