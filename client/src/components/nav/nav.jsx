@@ -1,10 +1,10 @@
 import React from "react";
 
-const MainLayout = () => (
+const Canvas = () => (
   <>
     <Nav />
     <Footer />
   </>
 );
 
-export default MainLayout;
+export default Canvas;
